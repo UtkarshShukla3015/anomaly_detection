@@ -1,3 +1,8 @@
+**Sample Input Viseo**
+
+https://github.com/user-attachments/assets/bdda50c2-7b3c-4d95-8f3e-5bf391dbc52b
+
+![Sample after Detection](https://github.com/user-attachments/assets/f2e4440a-717b-4920-882b-de3d4b24b5cf)
 #Anomaly Detection in Videos
 This project focuses on building an intelligent system to detect anomalies in video streams, which can be extremely useful in applications like surveillance, industrial monitoring, and security systems.
 The model is trained to identify unusual activities or outliers from normal patterns observed in video frames.
